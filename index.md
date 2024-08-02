@@ -1,6 +1,6 @@
 # my name is jaimin
 
-![cat]([https://octodex.github.com/images/yaktocat.png](https://github.com/jaim1n/jaim1n/blob/main/assets/octocat.png))
+![cat](https://github.com/jaim1n/jaim1n/blob/main/assets/octocat.png?raw=true)
 
 ```
 $ python hello.py
